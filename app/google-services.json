@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785860167614",
+    "project_id": "real-time-db-demo-2cc87",
+    "storage_bucket": "real-time-db-demo-2cc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785860167614:android:c9dab98ca43be323b49bef",
+        "android_client_info": {
+          "package_name": "com.example.firebase_android_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9u3zMEWtXCRqNU_r6ROsUg56lboxSEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
